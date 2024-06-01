@@ -62,7 +62,5 @@ class Book {
   library.removeBook("978-0451524935");
   library.listAllBooks();
   
-  
   book2.borrowBook();
   book2.returnBook();
-  
